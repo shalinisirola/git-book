@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Linux Fundamentals](README.md)
